@@ -1,0 +1,93 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-01 23:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-12-01 23:31:02 +0000",
+      "minecraft:beach": "2024-12-01 23:31:59 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-01 23:36:39 +0000",
+      "minecraft:forest": "2024-12-01 23:30:21 +0000",
+      "minecraft:taiga": "2024-12-01 23:35:35 +0000",
+      "minecraft:river": "2024-12-01 23:32:00 +0000",
+      "minecraft:snowy_plains": "2024-12-01 23:25:36 +0000",
+      "minecraft:dripstone_caves": "2024-12-01 23:27:36 +0000",
+      "minecraft:snowy_taiga": "2024-12-01 23:27:47 +0000",
+      "minecraft:deep_dark": "2024-12-01 23:29:32 +0000",
+      "minecraft:grove": "2024-12-01 23:28:48 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-01 23:35:45 +0000",
+      "minecraft:plains": "2024-12-01 23:30:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 23:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 23:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 23:38:51 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
